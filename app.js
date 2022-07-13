@@ -8,8 +8,10 @@ let username_count = 0;
 while(username_count > username.length) {
     console.log(username = [username_count]);
     console.log(user_age [username_count]);
+    console.log(user_age = username_count ['username'])
     username_count ++;
 }
+
  
 //this is for statement to add each user_age to each username
 for(username_count = 0; username_count < username.length; username_count + 1);
